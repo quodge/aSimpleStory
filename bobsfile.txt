@@ -1,1 +1,2 @@
-Alice making changes to bobs file
+Bob has made changes to his file
+
